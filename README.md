@@ -32,9 +32,13 @@ A150#//#22566#//#Hassan Ahmad#//#987643100#//#3500.500
 Output:    
 
 Account Number  : A150
+
 PIN Code        : 22566
+
 Name            : Hassan Ahmad
+
 Phone Number    : 987643100
+
 Account Balance : 3500.5
 
 
